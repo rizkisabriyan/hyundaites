@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hyundaiClient", "hyundaiClient.csproj", "{FF829F59-4652-4F83-B7C4-0EA0A8767AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF829F59-4652-4F83-B7C4-0EA0A8767AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF829F59-4652-4F83-B7C4-0EA0A8767AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF829F59-4652-4F83-B7C4-0EA0A8767AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF829F59-4652-4F83-B7C4-0EA0A8767AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2503896-7640-4D44-BF8C-CC33AE20EBD1}
+	EndGlobalSection
+EndGlobal
